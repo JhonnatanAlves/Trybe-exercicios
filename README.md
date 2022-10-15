@@ -7,20 +7,20 @@ Neste repositório contém todas as atividades desenvolvidas por [mim](https://w
 ## Fundamentos de Desenvolvimento Web :hourglass_flowing_sand:
 
 ##### Bloco 1: [Unix, Bash e Shell Script](https://github.com/JhonnatanAlves/Trybe-exercicios/tree/master/01-fundamentos/bloco-01-unix-bash-e-shell-script)
-- [:green_check_mark:] 1.3 - Fundamentos do Desenvolvimento Web
-- [:green_check_mark:] 1.3 - Introdução - Unix & Shell
-- [:green_check_mark:] 1.3 - Unix & Bash - Parte 1
-- [:green_check_mark:] 1.4 - Unix & Bash - Parte 2
+- [x] 1.3 - Fundamentos do Desenvolvimento Web
+- [x] 1.3 - Introdução - Unix & Shell
+- [x] 1.3 - Unix & Bash - Parte 1
+- [x] 1.4 - Unix & Bash - Parte 2
 
 ##### Bloco 2: [Git, GitHub e Internet](https://github.com/JhonnatanAlves/Trybe-exercicios/tree/master/01-fundamentos/bloco-02-git-github-e-internet)
-- [:green_check_mark:] 2.1 - Git & GitHub  - O que é e para que serve
-- [:green_check_mark:] 2.2 - Git & GitHub - Entendendo os comandos
-- [:green_check_mark:] 2.3 - Internet - Entendendo como ela funciona
+- [x] 2.1 - Git & GitHub  - O que é e para que serve
+- [x] 2.2 - Git & GitHub - Entendendo os comandos
+- [x] 2.3 - Internet - Entendendo como ela funciona
 
 ##### Bloco 3: [Introdução à HTML e CSS](https://github.com/JhonnatanAlves/Trybe-exercicios/tree/master/01-fundamentos/bloco-03-introducao-a-html-e-css)
-- [:green_check_mark:] 3.1 - Introdução - HTML & CSS
-- [:green_check_mark:] 3.1 - HTML & CSS - Estruturas de página
-- [:green_check_mark:] 3.2 - HTML & CSS - Primeiros passos em CSS
+- [x] 3.1 - Introdução - HTML & CSS
+- [x] 3.1 - HTML & CSS - Estruturas de página
+- [x] 3.2 - HTML & CSS - Primeiros passos em CSS
 - [ ] 3.3 - HTML & CSS - Seletores e posicionamento
 - [ ] 3.4 - HTML Semântico
 - [ ] 3.5 - Projeto - Lessons Learned
