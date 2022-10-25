@@ -1,4 +1,4 @@
-let nota = 101;
+let nota = 100;
 
 if (nota < 0 || nota > 100){
     console.log('Erro, nota inválida');
@@ -14,4 +14,4 @@ if (nota < 0 || nota > 100){
     console.log('E');
 } else if (nota < 50){
     console.log('F');
-}
+};
