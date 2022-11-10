@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+    <header>
+
+        <h1>Formulário de Viagem - TrybeTrip</h1>
+
+    </header>
+<br>
+<br>
+
+<main>
+
+    <form action="" method="get">
+        
+        <section class="name-complet">
+            <label for="name">Nome:
+                <input type="text" minlength="10" maxlength="40" id="name" placeholder="Digite seu nome completo" required autocomplete="off">
+            </label>
+        </section>
+        <br>
+        <section class="email-person">
+            <label for="email">Email:
+                <input type="email" minlength="10" maxlength="50" id="email" placeholder="Digite seu e-mail" required autocomplete="off">
+        </label>
+        </section>
+        <br>
+        <section class="destiny">
+            <label for="cidade">Destino Preferido:
+                <br>
+                <br>
+                <input type="radio" id="cidade" value="City" name="destino">Cidade
+            </label>
+            <label for="praia">
+                <input type="radio" id="praia" value="Beach" name="destino">Praia
+            </label>
+            <label for="campo">
+                <input type="radio" id="campo" value="Camp" name="destino">Campo
+            </label>
+            <label for="montanhas">
+                <input type="radio" id="montanhas" value="Montain" name="destino">Montanhas
+            </label>
+        </section>
+
+        <br>
+
+        <h2>Por que você deveria ser a pessoa desenvolvedora <br> a ganhar o concurso TrybeTrip?</h2>
+        <textarea name="sobre-mim" id="textmim" placeholder="Digite aqui sua resposta..." cols="40" rows="10" maxlength="500"></textarea>
+
+        <h3>Qual a melhor data para realizar sua viagem?</h3>
+
+        <section class="data">
+            <label for="date-today">
+                <input type="date" name="data" id="date-today">
+            </label>
+        </section>
+
+        <br>
+
+        <h4>NewsLetter</h4>
+
+        <label for="checkbox-not">
+            <input type="checkbox" name="oportunidades" id="checkbox-not">Gostaria de receber outras incríveis oportunidades oferecidas pela Trybe?
+        </label>
+        <br>
+        <label for="agreement">
+            <input type="checkbox" name="concordo" id="agreement">Concordo que imagens das minhas férias poderão ser usadas na divulgação de concursos futuros.
+        </label>
+        <br>
+        <br>
+        <button type="submit" id="btn" disabled>Enviar Formulário</button>
+        <button type="reset" id="btn-reset">Limpar tudo</button>
+    </form>
+
+</main>
+<script src="forms.js"></script>
+</body>
+</html>
