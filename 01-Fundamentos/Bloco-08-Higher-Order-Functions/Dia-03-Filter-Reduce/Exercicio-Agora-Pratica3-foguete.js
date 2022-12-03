@@ -4,4 +4,4 @@ const { books } = require('./data');
 
 const booksByAuthorBirthYear = (birthYear) => books.filter((book) => book.author.birthYear === birthYear).map((book) => book.name);
 
-console.log(booksByAuthorBirthYear(1932));
+console.log(booksByAuthorBirthYear(1920));
